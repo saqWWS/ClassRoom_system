@@ -1,0 +1,8 @@
+aiohttp~=3.11.13
+Quart~=0.20.0
+pytz~=2025.1
+pydantic~=2.10.6
+pydantic-settings~=2.8.0
+mongoengine~=0.29.1
+pymongo~=4.11.1
+motor~=3.7.0
